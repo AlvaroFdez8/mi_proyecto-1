@@ -53,3 +53,7 @@ Tambien es posible crear listas anidadas :
     * Poca movilidad
 
 Markdown te permite poner [enlaces a una página web](http://www.w3schools.com/), incluso sólo poniendo la URL: http://www.w3schools.com/
+
+En Markdown también se pueden poner imágenes:
+
+![Imagen](https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1247px-Real_betis_logo.svg.png `Imagen de un escudo´)
