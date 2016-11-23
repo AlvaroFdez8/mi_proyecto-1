@@ -68,6 +68,6 @@ También te permite <i>usar <b>código</b> HTML</i>.
 
 Se pueden poner citas:
 
-> Holaaaa <
-> hola. <
-> holaaaaaa. <
+> Esto es una cita.
+&bnsp;
+> Esto es otra cita.
