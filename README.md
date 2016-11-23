@@ -51,3 +51,5 @@ Tambien es posible crear listas anidadas :
 2. Ashe
     * ADC
     * Poca movilidad
+
+Markdown te permite poner [enlaces a una página web](http://www.w3schools.com/), incluso sólo poniendo la URL:
