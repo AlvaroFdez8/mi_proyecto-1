@@ -70,6 +70,12 @@ Se pueden poner citas:
 
 > Esto es una cita.
 
-&bnsp;
+ &bnsp;
 
 > Esto es otra cita.
+
+Markdown te permite crear listas de chequeo:
+
+- [] Patatas.
+- [X] Arroz.
+- [] Albondigas.
