@@ -52,4 +52,4 @@ Tambien es posible crear listas anidadas :
     * ADC
     * Poca movilidad
 
-Markdown te permite poner [enlaces a una página web](http://www.w3schools.com/), incluso sólo poniendo la URL:
+Markdown te permite poner [enlaces a una página web](http://www.w3schools.com/), incluso sólo poniendo la URL: http://www.w3schools.com/
