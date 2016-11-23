@@ -60,6 +60,6 @@ En Markdown también se pueden poner imágenes:
 
 | Personaje | Posición | Pasiva     |
 |-----------|----------|------------|
-| Tristana  | ADC      | Rabgo largo|
-| Annie     | Mid      | Stunt      |
-| Garen     | Top      | Ganar vida |
+| Tristana  | ADC      | Rango largo|
+| Annie     | Mid      | _Stun_     |
+| Garen     | **Top**  | Ganar vida |
