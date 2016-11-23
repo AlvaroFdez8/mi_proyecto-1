@@ -70,7 +70,7 @@ Se pueden poner citas:
 
 > Esto es una cita.
 
- &bnsp;
+
 
 > Esto es otra cita.
 
