@@ -63,3 +63,11 @@ En Markdown también se pueden poner imágenes:
 | Tristana  | ADC      | Rango largo|
 | Annie     | Mid      | _Stun_     |
 | Garen     | **Top**  | Ganar vida |
+
+También te permite <i>usar <b>código</b> HTML</i>.
+
+Se pueden poner citas:
+
+> Holaaaa
+> hola 
+> holaaaaaa
